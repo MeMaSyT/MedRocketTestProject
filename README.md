@@ -1,4 +1,5 @@
 # MedRocketTestProject
+Каждое задание представлено в отдельной ветке (Task1, Task2)
 <h2>Задание 1</h2>
 <img width="258" height="554" alt="Снимок экрана 2025-11-22 195050" src="https://github.com/user-attachments/assets/5c224e7a-1fd1-4e5d-90de-550e8cb5afa0" />
 
