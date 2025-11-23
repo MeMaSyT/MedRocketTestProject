@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:home_task/task2/questionnaire/view/questionnaire_page.dart';
 
 import 'pages/new_document_page.dart';
 
@@ -12,7 +13,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      home: const NewDocumentPage(),
+      home: const QuestionnairePage(questionnaireStateText: "123"),
     );
   }
 }

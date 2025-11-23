@@ -82,7 +82,7 @@ class NewDocumentPage extends StatelessWidget {
                     ActionButton(
                       text: "Удалить",
                       color: AppColors.button2Color,
-                      textColor: AppColors.basicTextColor,
+                      textColor: AppColors.button1Color,
                     ),
                   ],
                 ),
